@@ -14,8 +14,6 @@ REQUIREMENTS
 
 *PHP FOR BACKEND
 
-* INLCUDE LIBRARIES OPEN CV 
-
 ## Key Features
 - **Trainer Login**: Trainers can log in to post exercise videos and routines.
 - **Exercise Schedule Posting**: Trainers can share their workout plans, and users can vote on these posts to make the most popular ones trend.
