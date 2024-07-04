@@ -6,7 +6,7 @@ REQUIREMENTS
 
 *Download XAMPP CONTROL PANEL https://www.apachefriends.org/
 
-*WE ARE GOING WORK ON APACHE AND MYSQL
+*WE ARE GOING TO WORK ON APACHE AND MYSQL
 
 *REMEBER TO ADD course_db to MYSQL(import database)
 
