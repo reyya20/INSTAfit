@@ -4,9 +4,13 @@ INSTAfit is a comprehensive fitness platform designed to foster community engage
 
 REQUIREMENTS 
 *Download XAMPP CONTROL PANEL https://www.apachefriends.org/
+
 *WE ARE GOING WORK ON APACHE AND MYSQL
+
 *REMEBER TO ADD course_db to MYSQL(import database)
+
 *LANGUAGE USED HTML,PYHTON
+
 *PHP FOR BACKEND
 
 ## Key Features
