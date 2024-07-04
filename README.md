@@ -3,6 +3,7 @@
 INSTAfit is a comprehensive fitness platform designed to foster community engagement and personalized fitness guidance. Trainers can post their exercise schedules and routines, enabling users to vote and make trending posts. Additionally, INSTAfit offers unique features like CalorieWise and MuscleMaster to promote healthy eating habits and targeted fitness goals.
 
 REQUIREMENTS 
+
 *Download XAMPP CONTROL PANEL https://www.apachefriends.org/
 
 *WE ARE GOING WORK ON APACHE AND MYSQL
