@@ -15,6 +15,7 @@ REQUIREMENTS
 *PHP FOR BACKEND
 
 ## Key Features
+- **User Login**: User can log in to check routines and post videos.
 - **Trainer Login**: Trainers can log in to post exercise videos and routines.
 - **Exercise Schedule Posting**: Trainers can share their workout plans, and users can vote on these posts to make the most popular ones trend.
 - **Weekly Challenge**: Trainers post routines and users vote for the best. The top routine image is displayed as the trending routine for the week.
